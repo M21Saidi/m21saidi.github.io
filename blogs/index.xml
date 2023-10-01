@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Mohamed Saidi</title>
+    <link>/blogs/</link>
+    <description>Recent content in Blogs on Mohamed Saidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 19:53:33 +0530</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Decision Tree Predictive Model for Heart Disease Detection</title>
+      <link>/blogs/math/</link>
+      <pubDate>Fri, 09 Jun 2023 19:53:33 +0530</pubDate>
+      
+      <guid>/blogs/math/</guid>
+      <description>Exploring Heart Disease Prediction Imagine a journey into the world of heart disease prediction, where data science and healthcare analytics converge to unravel the mysteries of this critical health issue. This project was a comprehensive exploration, divided into two interconnected parts, each adding depth and insight to our understanding of heart disease prediction.
+Part 1 In the initial phase of our project, we set the stage by delving into the fundamental concepts of machine learning and data mining as applied in healthcare.</description>
+    </item>
+    
+    <item>
+      <title>Statistical Insights and Predictive Modeling: Uncovering the Dynamics of Bike Rentals</title>
+      <link>/blogs/markdown-syntax/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/blogs/markdown-syntax/</guid>
+      <description>Briefing In the modern era, cities worldwide face the challenges of traffic congestion, environmental concerns, and the promotion of healthier lifestyles. Bike sharing systems have emerged as a pioneering solution to these pressing issues, seamlessly integrating technology to revolutionize traditional bike rentals. With over 500 bike-sharing initiatives globally, urban areas such as Hangzhou, Paris, London, New York City, and Montreal have embraced this innovation. Taking Washington&amp;rsquo;s Capital Bikeshare as a prime example, this study draws from its comprehensive dataset to decode the dynamics of daily bike rentals.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on Mohamed Saidi</title>
+    <link>/tags/sas/</link>
+    <description>Recent content in SAS on Mohamed Saidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 23:29:21 +0530</lastBuildDate><atom:link href="/tags/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statistical Insights and Predictive Modeling: Uncovering the Dynamics of Bike Rentals</title>
+      <link>/blogs/markdown-syntax/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/blogs/markdown-syntax/</guid>
+      <description>Briefing In the modern era, cities worldwide face the challenges of traffic congestion, environmental concerns, and the promotion of healthier lifestyles. Bike sharing systems have emerged as a pioneering solution to these pressing issues, seamlessly integrating technology to revolutionize traditional bike rentals. With over 500 bike-sharing initiatives globally, urban areas such as Hangzhou, Paris, London, New York City, and Montreal have embraced this innovation. Taking Washington&amp;rsquo;s Capital Bikeshare as a prime example, this study draws from its comprehensive dataset to decode the dynamics of daily bike rentals.</description>
+    </item>
+    
+  </channel>
+</rss>

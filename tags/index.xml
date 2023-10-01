@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mohamed Saidi</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Mohamed Saidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 19:53:33 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA (Exploratory Data Analysis)</title>
+      <link>/tags/eda-exploratory-data-analysis/</link>
+      <pubDate>Fri, 09 Jun 2023 19:53:33 +0530</pubDate>
+      
+      <guid>/tags/eda-exploratory-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Disease</title>
+      <link>/tags/heart-disease/</link>
+      <pubDate>Fri, 09 Jun 2023 19:53:33 +0530</pubDate>
+      
+      <guid>/tags/heart-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Fri, 09 Jun 2023 19:53:33 +0530</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling</title>
+      <link>/tags/predictive-modeling/</link>
+      <pubDate>Fri, 09 Jun 2023 19:53:33 +0530</pubDate>
+      
+      <guid>/tags/predictive-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bike Sharing</title>
+      <link>/tags/bike-sharing/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/tags/bike-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/data-analysis/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS</title>
+      <link>/tags/sas/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/tags/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Thu, 20 Apr 2023 23:29:21 +0530</pubDate>
+      
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
